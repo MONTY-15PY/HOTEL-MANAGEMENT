@@ -1,0 +1,9 @@
+# Custom Dictionary Words
+DOUBBLE
+pdf_path
+pdf2docx
+pdfplumber
+phonebook
+Pritama
+sayan
+totaly
